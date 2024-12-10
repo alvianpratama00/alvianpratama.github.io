@@ -55,13 +55,9 @@ Relevant coursework: Statistics, Data Mining and Forecasting, Project Management
 - PHP
 - Javascript
 
-<br /> 
-
 ### Framework
 - Airflow
 - Spark
-
-<br /> 
 
 ### Tools
 - Big Query
